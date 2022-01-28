@@ -7,7 +7,7 @@ import ps2_visualize
 import pylab
 
 # For Python 3.5:
-from ps2_verify_movement35 import testRobotMovement
+# from ps2_verify_movement35 import testRobotMovement
 # If you get a "Bad magic number" ImportError, you are not using Python 3.5 
 
 

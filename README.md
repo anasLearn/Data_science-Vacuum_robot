@@ -8,7 +8,7 @@ The following simplified model of a single robot moving in a square 5x5 room sho
 
 The robot starts out at some random position in the room, and with a random direction of motion. The illustrations below show the robot's position (indicated by a black dot) as well as its direction (indicated by the direction of the red arrowhead).
 
-![simulation overview](https://raw.githubusercontent.com/anasLearn/Data-Science_Python_MITx-6002x/master/pset2/problem_description_files/simulation_description.JPG)
+![simulation overview](problem_description_files/simulation_description.JPG)
 
 ### Simulation Details
 
